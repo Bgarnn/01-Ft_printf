@@ -50,11 +50,14 @@ int	ft_printf(const char *str, ...)
 // #include <stdio.h>
 // int main ()
 // {
-// 	ft_printf("ft_printf : %c %c \n", '0', '1');
-// 	printf("printf : %c %c\n", '0', '1');
+// 	// ft_printf("ft_printf : %c %c \n", '0', "dd");
+// 	// printf("printf : %c %c\n", '0', "dd");
 
-// // 	// char str[10] = "String";
-// // 	// ft_printf("ft_printf : %s \n", str);
-// // 	// printf("printf : %s \n", str);
+// 	// char str[10] = "String";
+// 	// ft_printf("ft_printf : %s \n", str);
+// 	// printf("printf : %s \n", str);
 
+// 	// char* s = 0;
+// 	// ft_printf("ft_printf : %p\n", s);
+// 	// printf("printf : %p", s);
 // }

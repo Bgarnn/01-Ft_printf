@@ -10,7 +10,7 @@ void	ft_print_str(char *s, int *len)
 {
 	int		i;
 
-	if (s == 0)
+	if (s == NULL)
 	{
 		write(1, "(null)", 6);
 		(*len) = (*len) + 6;
