@@ -20,6 +20,6 @@ To compile the ft_printf function, follow these straightforward steps:
       - git clone git@github.com:Bgarnn/01-Ft_printf.git
       - cd 01-Ft_printf
   - Compile the Function:
-      - make: This will generate the libftprintf.a static library containing the ft_printf function.
+      - make: This will generate the static library containing the ft_printf function.
   - Clean the Build:
       - make clean: This removes the object files, leaving only the compiled library.
